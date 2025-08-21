@@ -1,13 +1,13 @@
-# Olá 👋 Eu sou <strong>Seu nome</strong> 👨‍💻
+# Olá 👋 Eu sou <strong>Edson Aguiar</strong> 👨‍💻
 
 ![header](https://capsule-render.vercel.app/api?text=.&fontColor=ffffff&fontSize=40&fontAlign=40&height=250&section=head&color=gradient)
 
 <p align='center'>
-  <strong>Seu cargo</strong>, <strong>Estado onde você reside</strong>.
+  <strong>Desenvolvedor Jr</strong>, <strong>Pernambuco</strong>.
 </p>
 
 <p align='center'>  
-  <a href="LINK_DO_SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/edson-aguiar888/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="LINK_DO_SEU_INSTAGRAM_AQUI">
